@@ -1,0 +1,26 @@
+{
+  "name": "react-native-tm-components",
+  "version": "1.0.0",
+  "description": "React Native tianma components",
+  "main": "src/index.js",
+  "keywords": [
+    "react-native"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dylan",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "0.63.2"
+  },
+  "peerDependencies": {
+    "react-native-vector-icons": ">6.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhouxuanyugit/react-native-tm-components.git"
+  }
+}
